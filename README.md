@@ -21,4 +21,4 @@ I am learning **Artificial Intelligence, Machine Learning, and AWS Cloud** step 
 This repository contains daily practice, mini projects, and real-world AI + AWS projects.
 
 ## 🎯 Goal
-To become a **job-ready AI Engineer** with strong cloud and ML skills.
+To become a **AI Engineer** with strong cloud and ML skills.
